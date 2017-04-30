@@ -1,4 +1,4 @@
-package com.practice.first
+package com.practice.lessonOne
 
 import java.util.ArrayList
 
